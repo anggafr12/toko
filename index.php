@@ -14,7 +14,7 @@
 		<div class="header"></div>
 		<div class="" >
 			<form action="aksi/aksi_masuk.php" method="POST">
-				<h3 align="center" class="text-danger">RAHAYU ATK</h3>
+				<h3 align="center" class="text-danger">ANGGA ATK</h3>
 				<h3 align="center" class="text-info">Login</h3><br>
 				<div class="form-group row">
 					<div class="col-sm-12">
